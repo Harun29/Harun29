@@ -1,4 +1,4 @@
-### <div align="center">I'm Harun, a full-time full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Harun, a full-stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Instagram Clone](https://github.com/Harun29/instagram-clone)  
