@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harun</h1>
 - 🔭 I’m currently working on [Instagram clone](https://github.com/Harun29/instagram-clone)
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C#*
 
 - 📫 How to reach me **harun.ibrahimovic@outlook.com**
 - 📄 Know about my experiences **https://pdf.ac/1k4bQg**
