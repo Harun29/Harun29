@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harun</h1>
-- 🔭 I’m currently working on [Instagram clone](https://github.com/Harun29/instagram-clone)
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on [Car price prediction and LLM integrations](https://github.com/Harun29/car-price-prediction-react // https://github.com/Harun29/ml-flask-server)
+- 🌱 I’m currently learning Next.js
 
 - 📫 How to reach me **harun.ibrahimovic@outlook.com**
-- 📄 Know about my experiences **https://pdf.ac/1k4bQg**
-- ⚡ Fun fact **I use tabs over spaces**
+- 📄 Know about my experiences **https://pdf.ac/1KF3NK**
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
