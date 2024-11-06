@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harun</h1>
 - 🔭 I’m currently working on [Car price prediction and LLM integrations](https://github.com/Harun29/car-price-prediction-react // https://github.com/Harun29/ml-flask-server)
+
 - 🌱 I’m currently learning Next.js
 
 - 📫 How to reach me **harun.ibrahimovic@outlook.com**
